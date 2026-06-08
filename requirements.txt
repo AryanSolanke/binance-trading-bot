@@ -1,0 +1,9 @@
+python-binance
+typer
+pydantic
+python-dotenv
+rich
+pytest
+websockets==10.4
+chardet
+charset-normalizer
